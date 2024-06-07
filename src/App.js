@@ -13,7 +13,7 @@ function App() {
       <Route path='/' element={<AddBook/>}/>
       <Route path='/search' element={<SearchBook/>}/>
       <Route path='/delete' element={<DeleteBook/>}/>
-      <Route path='/viewall' element={<ViewallStudent/>}/>
+      <Route path='/view' element={<ViewallStudent/>}/>
     </Routes>
     </BrowserRouter>
   );

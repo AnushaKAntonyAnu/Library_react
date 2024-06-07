@@ -21,7 +21,7 @@ const NavBar = () => {
           <a class="nav-link" href="/delete">Delete Book</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="/viewall">ViewAll Book</a>
+          <a class="nav-link" href="/view">ViewAll Book</a>
         </li>
       </ul>
     </div>
