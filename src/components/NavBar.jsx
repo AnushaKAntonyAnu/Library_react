@@ -12,16 +12,16 @@ const NavBar = () => {
     <div class="collapse navbar-collapse" id="navbarNav">
       <ul class="navbar-nav">
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="#">AddBook</a>
+          <a class="nav-link active" aria-current="page" href="/">AddBook</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Search Book</a>
+          <a class="nav-link" href="/search">Search Book</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Delete Book</a>
+          <a class="nav-link" href="/delete">Delete Book</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">ViewAll Book</a>
+          <a class="nav-link" href="/viewall">ViewAll Book</a>
         </li>
       </ul>
     </div>
